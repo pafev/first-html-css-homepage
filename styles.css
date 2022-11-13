@@ -242,7 +242,7 @@ body::-webkit-scrollbar-thumb {
     flex-wrap: wrap;
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 590px){
     .welcome{
         background-image: none;
     }
@@ -549,5 +549,6 @@ footer .footer_top{
 }
 
 footer .footer_bottom{
+    right: 0;
     margin-right: 0.25rem;
 }
